@@ -4,8 +4,8 @@
 
 Bem-vindo(a) à sua atividade prática de Lógica Computacional! Siga os passos abaixo para completar o desafio.
 
-**Nome do Aluno:** [Preencha seu nome aqui]
-**Matrícula:** [Preencha sua matrícula]
+**Nome do Aluno:** Luis Felipe do Valle Carvalho
+**Matrícula:** 20241100052
 ---
 
 ## 🎯 Objetivo
@@ -46,13 +46,13 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
-> Escreva aqui... Exemplo: Percebi que o padrão se repetia 3 vezes, então criei um bloco de função para desenhar a ponta da estrela e usei um loop...
+> Escreva aqui: Virei para a direita e utilizei o bloco de fonte da letra para imprimir meu primeiro nome "Luis", depois escrevi meu segundo nome embaixo "Felipe"
 
 ## 4. Desafio:
-**A)** Escreva aqui...
+**A)** 6 repetições com um angulo de 60 graus.
   
-**B)** Escreva aqui...
+**B)** 90 graus.
   
-**C)** Escreva aqui...
+**C)** Para fazer o hexagono, ele possui 6 lados, logo preciso usar 6 repetições, e para fazer os angulos 360 ÷ 6 = 60 graus. Para fazer o padrao circular, 360 ÷ 4 = 90 graus.
 
 ---

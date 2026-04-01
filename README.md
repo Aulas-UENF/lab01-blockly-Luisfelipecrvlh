@@ -43,10 +43,12 @@ Olhando para os blocos que você usou para resolver o jogo no nível 10, imagine
 
 ## 2. Evidência Visual (Screenshot)
 *Suba o screenshot da sua solução final (onde aparece "Você resolveu este nível!") para a pasta **/imagens** deste repositório.*
+> **👨‍🏫 Comentário do Professor:** Você não trouxe a imagem onde aparece escrito: "Você resolveu este nível!".
 
 ## 3. Estratégia Utilizada
 *Explique com suas palavras como você resolveu o problema. Qual foi a lógica?*
 > Escreva aqui: Virei para a direita e utilizei o bloco de fonte da letra para imprimir meu primeiro nome "Luis", depois escrevi meu segundo nome embaixo "Felipe"
+> **👨‍🏫 Comentário do Professor:** Como vc consegue explicar o desafio se o que vc está apresentando como evidencia visual não tem nada a ver com repetir ou girar?.
 
 ## 4. Desafio:
 **A)** 6 repetições com um angulo de 60 graus.
